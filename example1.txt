@@ -1,1 +1,1 @@
-First example to send only a particular file into local repository from work directoryy 
+First example to send only a particular file into local repository from work directory - sample 
